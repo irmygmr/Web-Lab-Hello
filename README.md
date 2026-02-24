@@ -15,6 +15,6 @@ Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda Vite + React + Type
 ## Kurulum
 npm install
 
-##Calistirma
+## Calistirma
 ```bash
 npm run dev
